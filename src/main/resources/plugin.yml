@@ -1,0 +1,4 @@
+name: ArmorHand
+version: '${project.version}'
+main: org.armorhand.ArmorHand
+api-version: '1.20'

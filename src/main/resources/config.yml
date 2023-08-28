@@ -1,0 +1,104 @@
+count: 4
+
+0:
+  rarm:
+    x: 0
+    y: 0
+    z: 0
+  larm:
+    x: 0
+    y: 0
+    z: 0
+  rleg:
+    x: 0
+    y: 0
+    z: 0
+  lleg:
+    x: 0
+    y: 0
+    z: 0
+  head:
+    x: 0
+    y: 0
+    z: 0
+  body:
+    x: 0
+    y: 0
+    z: 0
+
+1:
+  rarm:
+    x: -0.174
+    y: 0
+    z: 0.174
+  larm:
+    x: -0.174
+    y: 0
+    z: -0.174
+  rleg:
+    x: 0
+    y: 0
+    z: 0
+  lleg:
+    x: 0
+    y: 0
+    z: 0
+  head:
+    x: 0
+    y: 0
+    z: 0
+  body:
+    x: 0
+    y: 0
+    z: 0
+
+2:
+  rarm:
+    x: -2
+    y: 0.5
+    z: 0
+  larm:
+    x: -2
+    y: -0.5
+    z: 0
+  rleg:
+    x: 0.12
+    y: 0
+    z: 0
+  lleg:
+    x: -0.1
+    y: 0
+    z: 0
+  head:
+    x: -0.3
+    y: 0
+    z: 0
+  body:
+    x: 0
+    y: 0
+    z: 0
+3:
+  rarm:
+    x: -0.2
+    y: 0
+    z: 1.7
+  larm:
+    x: 0.65
+    y: 2.5
+    z: 2.6
+  rleg:
+    x: 0.2
+    y: 0
+    z: 0
+  lleg:
+    x: -0.15
+    y: 0
+    z: 0
+  head:
+    x: -0.2
+    y: 0
+    z: 0
+  body:
+    x: 0
+    y: 0.2
+    z: 0
